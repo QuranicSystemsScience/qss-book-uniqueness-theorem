@@ -1,9 +1,9 @@
-# QSS — Book 1: The Hidden Architecture of the Quran
+# QSS — Book 3: The Uniqueness Theorem
 
 This repository contains the sources, figures, and reproducibility code for:
 
-**"The Hidden Architecture of the Quran"**  
-(Book 1 of the *Quranic Systems Science* project)
+**"The Uniqueness Theorem"**  
+(Book 3 of the *Quranic Systems Science* project)
 
 ---
 
